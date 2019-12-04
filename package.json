@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/food4goodIL/backend/issues"
   },
-  "homepage": "https://github.com/food4goodIL/backend#readme"
+  "homepage": "https://github.com/food4goodIL/backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
